@@ -2,9 +2,9 @@
 A simple logging tool with hierarchies built-in.
 
 ### log level
-DEBUG: includes (DEBUG, INFO, ERROR)
-INFO: includes (INFO, ERROR)
-ERROR: includes (ERROR)
+- DEBUG: includes (DEBUG, INFO, ERROR)
+- INFO: includes (INFO, ERROR)
+- ERROR: includes (ERROR)
 
 ## Installation
 
