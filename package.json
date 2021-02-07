@@ -1,5 +1,5 @@
 {
-  "name": "loggingtool",
+  "name": "@isauadh/loggingtool",
   "version": "1.0.0",
   "description": "A simple logging tool with debug, info, and error level with built-in hierarchy",
   "main": "index.js",

@@ -9,7 +9,7 @@ A simple logging tool with hierarchies built-in.
 ## Installation
 
 ```sh
-$ npm install loggingtool
+$ npm install @isauadh/loggingtool
 ```
 
 
@@ -20,7 +20,7 @@ $ npm install loggingtool
 Usage:
 
 ```js
-var LoggingTool = require('logging-tool');
+var LoggingTool = require('@isauadh/loggingtool');
 var logger = new LoggingTool.LogLevel(`DEBUG`, `MyFunction`);
 logger.debug(`This is a debug message.`);
 // console.log [2021-02-07T18:31:46.358Z]  [DEBUG] [MyFunction]    This is a debug message.
