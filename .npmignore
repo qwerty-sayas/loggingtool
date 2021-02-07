@@ -1,0 +1,5 @@
+node_modules
+tests/
+index.ts 
+tsconfig.json
+dockerfile 

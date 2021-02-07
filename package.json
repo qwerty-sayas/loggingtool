@@ -1,0 +1,19 @@
+{
+  "name": "loggingtool",
+  "version": "1.0.0",
+  "description": "A simple logging tool with debug, info, and error level with built-in hierarchy",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest tests/sample.test.ts",
+    "build": "tsc index.ts"
+  },
+  "author": "qwerty-sayas <isauadh@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "@types/jest": "^26.0.20",
+    "jest": "^26.6.3"
+  }
+}
